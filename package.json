@@ -1,0 +1,21 @@
+{
+  "name": "danielle_borreda_app",
+  "version": "1.0.0",
+  "description": "this is DB exemple homework",
+  "main": "CV.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "my": "^0.3.3",
+    "mysql": "^2.18.1",
+    "npm": "^7.24.0",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {}
+}
